@@ -1,7 +1,7 @@
 # Task-Problem-Extraction-
 
 
-Select research articles and read or extract the text of the introduction portion. 
+Select research articles and read or extract the text of the introduction portion.\n 
 Preprocessing the introduction portion, remove the reference sentences. 
 Apply the pre-train model to classify the whole generated sentence into two groups (positive and negative)
 The positive sentence, remove and ignore. Focus on negative sentences.
